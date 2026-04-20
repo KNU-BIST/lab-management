@@ -27,7 +27,7 @@
 | Brain tissue RNAseq (Prof. Kim collaboration) | Wet lab + analysis | Ongoing — story unclear | Masud | `brain-tissue` `RNAseq` `collaboration` |
 | LP vs VP shunt meta-analysis | Meta-analysis | In progress | Postdoc 2 | `meta-analysis` `iNPH` |
 | iNPH vs neurodegeneration differential dx | Meta-analysis | In progress | Postdoc 2 | `meta-analysis` `iNPH` |
-| NRF grant — microplastics | Grant proposal | Writing | Both | `grant` `microplastics` |
+| NRF grant — Environmentsl Hazard | Grant proposal | Writing | Both | `grant` |
 | NRF grant — multi-omics neurodegeneration | Grant proposal | Writing | Both | `grant` `multi-omics` `iNPH` |
 | Placenta RAS-GLUT manuscript | Manuscript | Writing stage | Masud | `manuscript` `collaboration` |
 | Sample collection — iNPH CSF & blood | Sample management | Ongoing | Masud | `iNPH` `samples` |
@@ -62,7 +62,7 @@
 
 | Grant | Funder | Topic | Target submission | IRB needed | Status |
 |-------|--------|-------|-------------------|------------|--------|
-| Environmental Hazard in iNPH | NRF Korea | Microplastic detection in CSF/blood | TBD | Yes — pending | Writing |
+| Environmental Hazard in iNPH | NRF Korea | Hazard detection in CSF/blood | TBD | Yes — pending | Writing |
 | Neurodegeneration markers | NRF Korea | Multi-omics biomarkers in iNPH | TBD | Yes — pending | Writing |
 
 ---
