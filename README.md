@@ -27,8 +27,7 @@
 | Brain tissue RNAseq (Prof. Kim collaboration) | Wet lab + analysis | Ongoing — story unclear | Masud | `brain-tissue` `RNAseq` `collaboration` |
 | LP vs VP shunt meta-analysis | Meta-analysis | In progress | Nila | `meta-analysis` `iNPH` |
 | iNPH vs neurodegeneration differential dx | Meta-analysis | In progress | Nila | `meta-analysis` `iNPH` |
-| NRF grant — Environmentsl Hazard | Grant proposal | Writing | Both | `grant` |
-| NRF grant — multi-omics neurodegeneration | Grant proposal | Writing | Both | `grant` `multi-omics` `iNPH` |
+| NRF grant writing | Grant proposal | Writing | Both | `grant` |
 | Placenta RAS-GLUT manuscript | Manuscript | Writing stage | Masud | `manuscript` `collaboration` |
 | Sample collection — iNPH CSF & blood | Sample management | Ongoing | Masud | `iNPH` `samples` |
 | Review papers (planned) | Review writing | Planning | Both | `manuscript` |
