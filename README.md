@@ -81,4 +81,4 @@
 
 ---
 
-*This repo is managed by the KNU RNA-seq Lab. For questions about the system contact @masud-l.*
+*This repo is managed by the KNU BIST Lab. For questions about the system contact @masud-l.*
