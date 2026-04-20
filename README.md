@@ -62,8 +62,8 @@
 
 | Grant | Funder | Topic | Target submission | IRB needed | Status |
 |-------|--------|-------|-------------------|------------|--------|
-| Microplastics in iNPH | NRF Korea | Microplastic detection in CSF/blood | TBD | Yes — pending | Writing |
-| Multi-omics neurodegeneration markers | NRF Korea | Multi-omics biomarkers in iNPH | TBD | Yes — pending | Writing |
+| Environmental Hazard in iNPH | NRF Korea | Microplastic detection in CSF/blood | TBD | Yes — pending | Writing |
+| Neurodegeneration markers | NRF Korea | Multi-omics biomarkers in iNPH | TBD | Yes — pending | Writing |
 
 ---
 
