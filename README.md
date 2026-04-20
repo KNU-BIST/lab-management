@@ -1,7 +1,7 @@
 # Neurosurgery Research Lab — Management Hub
 **Kyungpook National University · Daegu, South Korea**
 
-> **For the PI:** Your live overview is in the [Projects board](../../projects). Filter Issues by label to see any project area instantly. Items tagged `needs-PI-input` need your attention.
+> **For Professor Park Kisu:** Your live overview is in the [Projects board](../../projects). Filter Issues by label to see any project area instantly. Items tagged `needs-PI-input` need your attention.
 
 ---
 
@@ -9,9 +9,9 @@
 
 | Name | Role | GitHub | Focus |
 |------|------|--------|-------|
-| [PI Name] | Principal Investigator | @[pi-github] | Neurosurgery, AI lab |
-| Md. Masudul Haque | Post-doctoral Researcher | @masud-l | Wet lab lead — colorectal cancer, RNAseq, FACS, ELISA |
-| [Postdoc 2 Name] | Post-doctoral Researcher | @[postdoc2] | Meta-analysis, neurology |
+| Park Kisu | Principal Investigator | @[pi-github] | Neurosurgery, AI lab |
+| Md. Masudul Haque | Post-doctoral Researcher | @masud-l | Cancer, RNAseq, FACS, ELISA |
+| Irin Sultana Nila | Post-doctoral Researcher | @Irin-sn | Meta-analysis, neurology, ELISA |
 | [Admin Name] | Lab Administrator | @[admin] | Administrative & logistics |
 
 ---
@@ -25,8 +25,8 @@
 | FACS protocol — brain tissue | Protocol setup | Planning | Masud | `brain-tissue` `FACS` `wet-lab` |
 | ELISA — iNPH CSF/serum | Protocol setup | Planning | Masud | `iNPH` `ELISA` `wet-lab` |
 | Brain tissue RNAseq (Prof. Kim collaboration) | Wet lab + analysis | Ongoing — story unclear | Masud | `brain-tissue` `RNAseq` `collaboration` |
-| LP vs VP shunt meta-analysis | Meta-analysis | In progress | Postdoc 2 | `meta-analysis` `iNPH` |
-| iNPH vs neurodegeneration differential dx | Meta-analysis | In progress | Postdoc 2 | `meta-analysis` `iNPH` |
+| LP vs VP shunt meta-analysis | Meta-analysis | In progress | Nila | `meta-analysis` `iNPH` |
+| iNPH vs neurodegeneration differential dx | Meta-analysis | In progress | Nila | `meta-analysis` `iNPH` |
 | NRF grant — Environmentsl Hazard | Grant proposal | Writing | Both | `grant` |
 | NRF grant — multi-omics neurodegeneration | Grant proposal | Writing | Both | `grant` `multi-omics` `iNPH` |
 | Placenta RAS-GLUT manuscript | Manuscript | Writing stage | Masud | `manuscript` `collaboration` |
