@@ -9,7 +9,7 @@
 
 | Name | Role | GitHub | Focus |
 |------|------|--------|-------|
-| Park Kisu | Principal Investigator | @[pi-github] | Neurosurgery, AI lab |
+| Professor Park Kisu | Principal Investigator | @[pi-github] | Neurosurgery, AI lab |
 | Md. Masudul Haque | Post-doctoral Researcher | @masud-l | Cancer, RNAseq, FACS, ELISA |
 | Irin Sultana Nila | Post-doctoral Researcher | @Irin-sn | Meta-analysis, neurology, ELISA |
 | [Admin Name] | Lab Administrator | @[admin] | Administrative & logistics |
